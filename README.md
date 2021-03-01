@@ -1,23 +1,23 @@
 # MeilleursAgents
 
-[![MeilleursAgents logo](logo-ma.jpg)](https://www.meilleursagents.com)
+[![MeilleursAgents logo](images/logo-ma.jpg)](https://www.meilleursagents.com)
 
 ## Qui sommes-nous ?
 
 **Meilleurs Agents c’est le site qui permet aux particuliers de vivre leur projet immobilier en toute confiance !**
 
-Sur un marché opaque comme celui de l’immobilier, Meilleurs Agents a remis la transparence au coeur des projets immobiliers des français.e.s.
+Sur un marché opaque comme celui de l’immobilier, Meilleurs Agents a remis la transparence au coeur des projets immobiliers des français·e·s.
 
 En apportant les meilleures informations sur les prix, les agences et la vente ou l’achat grâce à la datascience, Meilleurs Agents est l’outil incontournable dans la gestion de projets immobiliers : estimation de la valeur d’un bien, comparaison d’agences immobilières, liste des ventes à proximité, informations marché, conseils et accompagnement gratuit !
 
 Mais ce n’est pas tout. Nous aidons aussi les agents immobiliers à se digitaliser 🧐
 Avec un produit SaaS et des features innovants dédiés, ils améliorent leur visibilité et leur performance.
 
-**Serez-vous la ou le prochain.e à faire partie de l’aventure ?**
+**Serez-vous la ou le prochain·e à faire partie de l’aventure ?**
 
 Envie de nous connaître ? Consultez notre [blog Medium](https://medium.com/meilleursagents-engineering) !
 
-![people working on desks](bench.jpg)
+![people working on desks](images/bench.jpg)
 
 ## Notre Stack et organisation
 
@@ -46,7 +46,7 @@ Nous respectons le temps des développeurs et développeuses sur le modèle Make
 
 En termes de taille et d’organisation, nous ne sommes pas une startup early stage (qui manque de structure et de moyens), ni une grosse entreprise (où les services sont silotés). Nous avons des moyens et des process qui encouragent l’innovation.
 
-![people resting](payote.jpg)
+![people resting](images/payote.jpg)
 
 ## Nous rejoindre
 
