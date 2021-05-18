@@ -58,7 +58,7 @@ Chouchouter les équipes est primordial pour nous : télétravail, budget pour a
 
 - [Senior Back](https://www.welcometothejungle.com/fr/companies/meilleursagents/jobs/senior-backend-engineer-python-flask-f-h_paris_MA_6187e0J)
 - [Data Engineer](https://www.welcometothejungle.com/fr/companies/meilleursagents/jobs/data-engineer-f-h_paris_MA_Ae0YJRb)
-- [GIS Engineer](https://www.welcometothejungle.com/fr/companies/meilleursagents/jobs/gis-engineer_paris)
+- [Senior GIS Engineer](https://www.welcometothejungle.com/fr/companies/meilleursagents/jobs/senior-software-engineer-gis-team_paris)
 - [Engineering Manager](https://www.welcometothejungle.com/fr/companies/meilleursagents/jobs/engineering-manager-f-h_paris_MA_qVXRjNq)
 
 Découvrez toutes nos [offres](https://www.welcometothejungle.com/fr/companies/meilleursagents).
