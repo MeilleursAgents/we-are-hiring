@@ -23,6 +23,8 @@ Envie de nous connaître ? Consultez notre [blog Medium](https://medium.com/meil
 
 ### WEB
 
+![image](https://user-images.githubusercontent.com/4463477/109637604-49747800-7b4d-11eb-9e28-5ee6a16445fc.png)
+
 **Côté backend :** nous développons des apps web classiques et des API Rest en Python / Flask. Nous utilisons Celery + Redis, PostgreSQL, GCP, Docker/Kubernetes, Ansible, Jenkins, Algolia, Mapnick
 
 **Côté frontend :** ReactJS, Redux, Mapbox GL, Webpack, Sass, Jinja2, Vanilla Javascript, Nightwatch (Selenium).
